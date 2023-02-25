@@ -15,6 +15,6 @@ ___
 Skills :
 * JAVA SE
 * JAVA EE
-*  Hibernate
+    *  Hibernate
 *  SQL
 *  HTML

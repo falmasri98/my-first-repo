@@ -1,7 +1,7 @@
 # my-first-repo
 
  ## My name is **Farah** **Al-Masri**  ~~24~~ 25 years old. 
- ### I graduated from *WISE* Univesity in 2021.
+ ### I graduated from ***WISE*** Univesity in 2021.
  
 | Strength | Weakness |
 |-----|-----|

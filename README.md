@@ -11,4 +11,5 @@
 ___
 
 
-[Farah Almasri](https://www.linkedin.com/in/farah-almasri/) ![LinkedIn Account](https://www.iconfinder.com/icons/834713/linkedin_icon/png/64)
+[Farah Almasri](https://www.linkedin.com/in/farah-almasri/) 
+![LinkedIn Account](https://www.iconfinder.com/icons/834713/linkedin_icon/png/64)

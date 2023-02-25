@@ -9,6 +9,5 @@
 |finding a middle ground|attempting to please everyone|
 
 ___
-
-
- !(https://user-images.githubusercontent.com/117181849/221374498-4a7b10ae-a96e-4d9f-b1ed-501aa63528d4.png/64) [Farah Almasri](https://www.linkedin.com/in/farah-almasri/)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+[Farah Almasri](https://www.linkedin.com/in/farah-almasri/)

@@ -11,3 +11,10 @@
 ___
 
 **LinkedIn** [Farah Almasri](https://www.linkedin.com/in/farah-almasri/) 
+
+Skills :
+* JAVA SE
+* JAVA EE
+*  Hibernate
+*  SQL
+*  HTML

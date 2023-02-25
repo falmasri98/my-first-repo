@@ -10,5 +10,5 @@
 
 ___
 
-![]([https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon](https://user-images.githubusercontent.com/117181849/221374401-ab7e9976-22d8-4112-bbdc-ae052af560e2.png)
+![LinkedIn Icon]([https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon](https://user-images.githubusercontent.com/117181849/221374401-ab7e9976-22d8-4112-bbdc-ae052af560e2.png)
 [Farah Almasri](https://www.linkedin.com/in/farah-almasri/)

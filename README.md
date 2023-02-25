@@ -1,5 +1,5 @@
 # my-first-repo
 
- My name is **Farah** **Al-Masri**  ~~24~~ 25 years old. 
- I graduated from ## The World Islamic Sceinces & Educations Univesity
+ ## My name is **Farah** **Al-Masri**  ~~24~~ 25 years old. 
+ ### I graduated from *WISE* Univesity
 
